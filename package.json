@@ -1,0 +1,9 @@
+{
+  "name": "matnlar-olami",
+  "private": true,
+  "description": "Matnlar Olami — Boshlang'ich sinflar uchun matnlar va namunaviy savollar to'plami",
+  "scripts": {
+    "build": "echo \"No build needed for this static app.\"",
+    "preview": "npx serve ."
+  }
+}
