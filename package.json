@@ -3,7 +3,7 @@
   "private": true,
   "description": "Matnlar Olami — Boshlang'ich sinflar uchun matnlar va namunaviy savollar to'plami",
   "scripts": {
-    "build": "echo \"No build needed for this static app.\"",
+    "build": "node scripts/build-netlify.js",
     "preview": "npx serve ."
   }
 }
